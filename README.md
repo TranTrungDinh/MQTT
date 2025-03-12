@@ -89,4 +89,3 @@ MQTT-Client-Testing/
 ├── testing_bandwidth.py
 └── README.md
 ```
-Giấy phép
